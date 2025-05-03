@@ -3654,35 +3654,6 @@ https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20
 #EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Fingiste Amarme
 https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/03.-%20Fingiste%20Amarme%20-%20Grupo%20Red.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Nadie Sabe
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/04.-%20Nadie%20Sabe%20-%20Antonio%20Rios.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Flor De Un Día
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/05.-%20Flor%20De%20Un%20D%C3%ADa%20-%20La%20Cumbia.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",No Sé Por Que
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/06.-%20No%20S%C3%A9%20Por%20Que%20-%20Grupo%20Green.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",La Luna y Tú 
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/07.-%20La%20Luna%20y%20T%C3%BA%20-%20R%C3%A1faga.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Tú Me Quemas 
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/08.-%20T%C3%BA%20Me%20Quemas%20-%20Miguel%20Alejandro.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Vete
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/09.-%20Vete%20-%20Media%20Naranja.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",La Segunda De Niña
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/10.-%20La%20Segunda%20De%20Ni%C3%B1a%20-%20Onda%20Sabanera.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Cumbia Sobre El Mar 
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/11.-%20Cumbia%20Sobre%20El%20Mar%20-%20Los%20Palmeras.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20(1999)/Frontal.jpg",Amarte De A Poquito
-https://archive.org/download/discazo-tropical-varios-interpretes-1999/Discazo%20Tropical%20-%20Varios%20Interpretes%20%281999%29/12.-%20Amarte%20De%20A%20Poquito%20-%20Los%20Gorilas.mp3
-
-
-
 
 #EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="",
 
@@ -3978,13 +3949,65 @@ https://archive.org/download/radio-top-101.5-los-que-nacieron-en-la-top-40/14%20
 https://archive.org/download/radio-top-101.5-los-que-nacieron-en-la-top-40/15%20Pista%2015.mp3
 
 
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Qué Tendrá El Petiso 
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/01.%20Ricky%20Maravilla%20-%20Qu%C3%A9%20Tendr%C3%A1%20El%20Petiso.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Violeta
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/02.%20Alcides%20-%20Violeta.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Una Ráfaga de Amor
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/03.%20R%C3%A1faga%20-%20Una%20R%C3%A1faga%20de%20Amor.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Fuiste
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/04.%20Gilda%20-%20Fuiste.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Después de Ti
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/05.%20Leo%20Mattioli%20-%20Despu%C3%A9s%20de%20Ti.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Nunca Me Faltes
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/06.%20Antonio%20R%C3%ADos%20-%20Nunca%20Me%20Faltes.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", La Malagata
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/07.%20Sombras%20-%20La%20Malagata.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", La Güera Salomé
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/08.%20Lia%20Crucet%20-%20La%20G%C3%BCera%20Salom%C3%A9.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Mariposa Fría 
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/09.%20Granizo%20Rojo%20-%20Mariposa%20Fr%C3%ADa.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Yo Me Enamoré
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/10.%20Amar%20Azul%20-%20Yo%20Me%20Enamor%C3%A9.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Tomare Para Olvidar
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/11.%20Karicia%20-%20Tomare%20Para%20Olvidar.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600700.us.archive.org/11/items/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/A.jpg?cnt=0", Voló la Paloma
+https://archive.org/download/varios-interpretes-90s-cumbia-hits-2009-430/Varios%20Int%C3%A9rpretes%20-%2090%27s%20Cumbia%20Hits%20%282009%29%20-Leader%20Music%20%2BLeoArroyo/12.%20Los%20Palmeras%20-%20Vol%C3%B3%20la%20Paloma.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
 
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/rafaga-grandes-exitos-21-hits-enganchados-2001/R%C3%A1faga%20-%20Grandes%20Exitos%2021%20Hits%20Enganchados%20(2001)/Rafaga%20-%20Grandes_Exitos_2001%20-%20Frontal.jpg",MEGAMIX 
-https://archive.org/download/rafaga-grandes-exitos-21-hits-enganchados-2001/R%C3%A1faga%20-%20Grandes%20Exitos%2021%20Hits%20Enganchados%20%282001%29/01.-%20MEGAMIX.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/rafaga-grandes-exitos-21-hits-enganchados-2001/R%C3%A1faga%20-%20Grandes%20Exitos%2021%20Hits%20Enganchados%20(2001)/Rafaga%20-%20Grandes_Exitos_2001%20-%20Frontal.jpg",MEGAMIX EN VIVO
-https://archive.org/download/rafaga-grandes-exitos-21-hits-enganchados-2001/R%C3%A1faga%20-%20Grandes%20Exitos%2021%20Hits%20Enganchados%20%282001%29/17.-%20MEGAMIX%20EN%20VIVO.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="", 
+
 
 #EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/granizo-rojo-el-que-a-hierro-mata-single/0.jpg",Chiquita pretenciosa
 https://archive.org/download/granizo-rojo-el-que-a-hierro-mata-single/Esencia%20Latina%20-%20Chiquita%20pretenciosa%20%28Single%29.mp3
@@ -4200,56 +4223,72 @@ http://archive.org/download/VA-DJ_Grimey_-_Reggaeton_Duro_4-2018/42 - Alberto St
 #EXTINF:-1 group-title="REGGAETON MP3" tvg-logo="https://ia902808.us.archive.org/11/items/VA-DJ_Grimey_-_Reggaeton_Duro_4-2018/Cover.jpg?cnt=0",43 - John Jay Feat Randy Nota Loca
 http://archive.org/download/VA-DJ_Grimey_-_Reggaeton_Duro_4-2018/43 - John Jay Feat Randy Nota Loca - reggaetondurocom.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",01, Sol negro
-https://archive.org/download/alfilmania_3/01%2C%20Sol%20negro.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",02, Dos mujeres, un camino
-https://archive.org/download/alfilmania_3/02%2C%20Dos%20mujeres%2C%20un%20camino.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",03, La culpa de tu amor
-https://archive.org/download/alfilmania_3/03%2C%20La%20culpa%20de%20tu%20amor.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",04, Enganchado #1
-https://archive.org/download/alfilmania_3/04%2C%20Enganchados%201.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",05, Amor en llamas 
-https://archive.org/download/alfilmania_3/05%2C%20Amor%20en%20llamas.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",06, Carcelero
-https://archive.org/download/alfilmania_3/06%2C%20Carcelero.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",01, Sol negro
+https://archive.org/download/alfilmania_3_202302/01%2C%20Sol%20negro.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",07, Con su blanca palidez 
-https://archive.org/download/alfilmania_3/07%2C%20Con%20su%20blanca%20palidez.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia903405.us.archive.org/35/items/alfilmania_3/Tapa.jpg?cnt=0",08, Enchanchado #2 
-https://archive.org/download/alfilmania_3/08%2C%20Enchanchados%202.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",02, Dos mujeres, un camino
+https://archive.org/download/alfilmania_3_202302/02%2C%20Dos%20mujeres%2C%20un%20camino.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",01, No me abandones 
-https://archive.org/download/no_me_abandones/01%2C%20No%20me%20abandones.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",02, La amamos los dos
-https://archive.org/download/no_me_abandones/02%2C%20La%20amamos%20los%20dos.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",03, Te perdí 
-https://archive.org/download/no_me_abandones/03%2C%20Te%20perd%C3%AD.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",03, La culpa de tu amor
+https://archive.org/download/alfilmania_3_202302/03%2C%20La%20culpa%20de%20tu%20amor.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",04, Como la baila 
-https://archive.org/download/no_me_abandones/04%2C%20Como%20la%20baila.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",05, Siempre junto a ti 
-https://archive.org/download/no_me_abandones/05%2C%20Siempre%20junto%20a%20ti.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",06, Un sueño de abril 
-https://archive.org/download/no_me_abandones/06%2C%20Un%20sue%C3%B1o%20de%20abril.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",04, Enganchado #1
+https://archive.org/download/alfilmania_3_202302/04%2C%20Enganchado%201.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",07, El ritmo de la gente
-https://archive.org/download/no_me_abandones/07%2C%20El%20ritmo%20de%20la%20gente.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",08, Deseo tu amor 
-https://archive.org/download/no_me_abandones/08%2C%20Deseo%20tu%20amor.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",09, Te amo en silencio
-https://archive.org/download/no_me_abandones/09%2C%20Te%20amo%20en%20silencio.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",10, Solo para ti 
-https://archive.org/download/no_me_abandones/10%2C%20Solo%20para%20ti.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",11, Me muero por mirarte 
-https://archive.org/download/no_me_abandones/11%2C%20Me%20muero%20por%20mirarte.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",05, Amor en llamas 
+https://archive.org/download/alfilmania_3_202302/05%2C%20Amor%20en%20llamas.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",12, Amor traicionero 
-https://archive.org/download/no_me_abandones/12%2C%20Amor%20traicionero.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",13, Mata el dolor 
-https://archive.org/download/no_me_abandones/13%2C%20Mata%20el%20dolor.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/no_me_abandones/Delantera.jpg",14, En qué te he fallado
-https://archive.org/download/no_me_abandones/14%2C%20En%20qu%C3%A9%20te%20he%20fallado.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",06, Carcelero
+https://archive.org/download/alfilmania_3_202302/06%2C%20Carcelero.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",07, Con su blanca palidez 
+https://archive.org/download/alfilmania_3_202302/07%2C%20Con%20su%20blanca%20palidez.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia601702.us.archive.org/20/items/alfilmania_3_202302/Delantera.jpg?cnt=0",08, Enchanchado #2 
+https://archive.org/download/alfilmania_3_202302/08%2C%20Enchanchado%202.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",01, No me abandones 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2001%20-%20No%20Me%20Abandones.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",02, La amamos los dos
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2002%20-%20La%20Amamos%20Los%20Dos%20%28A%20Duo%20Con%20Daniel%20Agostini%29.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",03, Te perdí 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2003%20-%20Te%20Perd%C3%AD.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",04, Como la baila 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2004%20-%20Como%20La%20Baila.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",05, Siempre junto a ti 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2005%20-%20Siempre%20Junto%20A%20Ti.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",06, Un sueño de abril 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2006%20-%20Un%20Sue%C3%B1o%20De%20Abril.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",07, El ritmo de la gente
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2007%20-%20El%20Ritmo%20De%20La%20Gente.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",08, Deseo tu amor 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2008%20-%20Deseo%20Tu%20Amor.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",09, Te amo en silencio
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2009%20-%20Te%20Amo%20En%20Silencio.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",10, Solo para ti 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2010%20-%20Solo%20Para%20Ti.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",11, Me muero por mirarte 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2011%20-%20Me%20Muero%20Por%20Mirarte.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",12, Amor traicionero 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2012%20-%20Amor%20Traicionero.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",13, Mata el dolor 
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2013%20-%20Mata%20El%20Dolor.mp3
+
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/los-avila-01-no-me-abandones_20230202/0.jpg",14, En qué te he fallado
+https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2014%20-%20En%20Qu%C3%A9%20Te%20He%20Fallado.mp3
 
 
 #EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",01, Orgullosa
