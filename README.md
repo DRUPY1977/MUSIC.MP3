@@ -4291,46 +4291,12 @@ https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%2
 https://archive.org/download/los-avila-01-no-me-abandones_20230202/Los%20Avila%20-%2014%20-%20En%20Qu%C3%A9%20Te%20He%20Fallado.mp3
 
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",01, Orgullosa
-https://archive.org/download/bien_de_pueblo/01%2C%20Orgullosa.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",02, Devuélveme mi cassette
-https://archive.org/download/bien_de_pueblo/02%2C%20Devu%C3%A9lveme%20mi%20cassette.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia803400.us.archive.org/32/items/varios-interpretes-inolvidables-vol.-1-100-enganchado-cumbia-2005/Varios%20Int%C3%A9rpretes%20-%20Inolvidables%20Vol.%201%20-%20100%20%25%20Enganchado%20Cumbia%20%282005%29/Frontal.jpg?cnt=0",Inolvidables Vol. 1 - 100 % Enganchado Cumbia (2005)
+https://archive.org/download/varios-interpretes-inolvidables-vol.-1-100-enganchado-cumbia-2005/Varios%20Int%C3%A9rpretes%20-%20Inolvidables%20Vol.%201%20-%20100%20%25%20Enganchado%20Cumbia%20%282005%29/01%20-%20100%25%20Enganchado%20Cumbia%20-%20Inolvidables%20Vol.%201%20%282005%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",03, Marcelita
-https://archive.org/download/bien_de_pueblo/03%2C%20Marcelita.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia803400.us.archive.org/25/items/varios-interpretes-inolvidables-vol.-3-100-enganchado-norteno-2005/Varios%20Int%C3%A9rpretes%20-%20Inolvidables%20Vol.%203%20-%20100%25%20Enganchado%20Norte%C3%B1o%20%282005%29/Frontal.jpg?cnt=0",Enganchado Norteño (2005)
+https://archive.org/download/varios-interpretes-inolvidables-vol.-3-100-enganchado-norteno-2005/Varios%20Int%C3%A9rpretes%20-%20Inolvidables%20Vol.%203%20-%20100%25%20Enganchado%20Norte%C3%B1o%20%282005%29/100%25%20Enganchado%20Norte%C3%B1o%20-%20Inolvidables%20Vol.%203%20%282005%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",04, La rompidita
-https://archive.org/download/bien_de_pueblo/04%2C%20La%20rompidita.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",05, El temblor 
-https://archive.org/download/bien_de_pueblo/05%2C%20El%20temblor.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",06, Baila bonito
-https://archive.org/download/bien_de_pueblo/06%2C%20Baila%20bonito.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",07, Amor infinito
-https://archive.org/download/bien_de_pueblo/07%2C%20Amor%20infinito.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",08, Miguel e Isabel 
-https://archive.org/download/bien_de_pueblo/08%2C%20Miguel%20e%20Isabel.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",09, Cervecita blanca
-https://archive.org/download/bien_de_pueblo/09%2C%20Cervecita%20blanca.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",10, Mujer interesada
-https://archive.org/download/bien_de_pueblo/10%2C%20Mujer%20interesada.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",11, Fama
-https://archive.org/download/bien_de_pueblo/11%2C%20Fama.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",12, Grande de cadera
-https://archive.org/download/bien_de_pueblo/12%2C%20Grande%20de%20cadera.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",13, El tartamudo
-https://archive.org/download/bien_de_pueblo/13%2C%20El%20tartamudo.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",14, Sin mover un dedo
-https://archive.org/download/bien_de_pueblo/14%2C%20Sin%20mover%20un%20dedo.mp3
-
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/bien_de_pueblo/Delantera.jpg",15, Sufre ladrón
-https://archive.org/download/bien_de_pueblo/15%2C%20Sufre%20ladr%C3%B3n.mp3
 
 
 #EXTINF:-1 group-title="FOLKLORE AR MP3" tvg-logo="https://archive.org/download/alegria_de_vivir/1.jpg",01, Aljibe
@@ -4864,44 +4830,44 @@ https://archive.org/download/toda_una_vida/15%2C%20Merceditas.mp3
 #EXTINF:-1 group-title="FOLKLORE AR MP3" tvg-logo="https://archive.org/download/toda_una_vida/Los%20Visconti-1990-Toda%20Una%20Vida-Ed.%20Colombia-1.jpg",16, Como se adora el sol
 https://archive.org/download/toda_una_vida/16%2C%20Como%20se%20adora%20el%20sol.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Las Maravillas de la Vida
-https://archive.org/download/de_buenos_aires_para_el_mundo/01%2C%20Las%20maravillas%20de%20la%20vida%20%28ft.%20Lali%20Esp%C3%B3sito%29.mp3
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Co´mo Te Voy a Olvidar
-https://archive.org/download/de_buenos_aires_para_el_mundo/02%2C%20C%C3%B3mo%20te%20voy%20a%20olvidar%20%28ft.%20Vicentico%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Las Maravillas de la Vida
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/01%20-%20Las%20maravillas%20de%20la%20vida%20%28Ft%20Lali%20Esp%C3%B3sito%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Y la Hice Llorar 
-https://archive.org/download/de_buenos_aires_para_el_mundo/03%2C%20Y%20la%20hice%20llorar%20%28ft.%20Abel%20Pintos%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Co´mo Te Voy a Olvidar
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/02%20-%20C%C3%B3mo%20te%20voy%20a%20olvidar%20%28Ft%20Vicentico%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Entrega de Amor 
-https://archive.org/download/de_buenos_aires_para_el_mundo/04%2C%20Entrega%20de%20amor%20%28ft.%20Palito%20Ortega%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Y la Hice Llorar 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/03%20-%20Y%20la%20hice%20llorar%20%28Ft%20Abel%20Pintos%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Mis Sentimientos
-https://archive.org/download/de_buenos_aires_para_el_mundo/05%2C%20Mis%20sentimientos%20%28ft.%20Soledad%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Entrega de Amor 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/04%20-%20Entrega%20de%20amor%20%28Ft%20Palito%20Ortega%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",El Listo´n de Tu Pelo 
-https://archive.org/download/de_buenos_aires_para_el_mundo/06%2C%20El%20list%C3%B3n%20de%20tu%20pelo%20%28ft.%20%C3%81ngela%20Leiva%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Mis Sentimientos
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/05%20-%20Mis%20sentimientos%20%28Ft%20Soledad%20Pastorutti%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Ella Se Olvido´ de Mí 
-https://archive.org/download/de_buenos_aires_para_el_mundo/07%2C%20Ella%20se%20olvid%C3%B3%20de%20m%C3%AD%20%28ft.%20Ulises%20Bueno%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",El Listo´n de Tu Pelo 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/06%20-%20El%20list%C3%B3n%20de%20tu%20pelo%20%28Ft%20%C3%81ngela%20Leiva%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",20 Rosas
-https://archive.org/download/de_buenos_aires_para_el_mundo/08%2C%2020%20rosas%20%28ft.%20Jay%20de%20la%20Cueva%20%26%20Am%C3%A9rico%20Gomes%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Ella Se Olvido´ de Mí 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/07%20-%20Ella%20se%20olvid%C3%B3%20de%20m%C3%AD%20%28Ft%20Ulises%20Bueno%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Ay Amor
-https://archive.org/download/de_buenos_aires_para_el_mundo/09%2C%20Ay%20amor%20%28ft.%20Juan%20Ingaramo%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",20 Rosas
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/08%20-%2020%20rosas%20%28Ft%20Am%C3%A9rico%20-%20Jay%20De%20La%20Cueva%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Acaririciame 
-https://archive.org/download/de_buenos_aires_para_el_mundo/10%2C%20Acar%C3%AD%C3%B1ame%20%28ft.%20Julieta%20Venegas%2C%20Juan%20Ingaramo%20%26%20Jay%20de%20la%20Cueva%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",,Ay Amor
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/09%20-%20Ay%20amor%20%28Ft%20Juan%20Ingaramo%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Te Necesito
-https://archive.org/download/de_buenos_aires_para_el_mundo/11%2C%20Te%20necesito%20%28ft.%20El%20Polaco%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Acaririciame 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/10%20-%20Acar%C3%AD%C3%B1ame%20%28Ft%20Julieta%20Venegas%20-%20Juan%20Ingaramo%20-%20Jay%20De%20La%20Cueva%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",Mi Unico Amor 
-https://archive.org/download/de_buenos_aires_para_el_mundo/12%2C%20Mi%20%C3%BAnico%20amor%20%28ft.%20Marcela%20Morelo%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Te Necesito
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/11%20-%20Te%20necesito%20%28Ft%20El%20Polaco%29.mp3
 
-#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://archive.org/download/de_buenos_aires_para_el_mundo/1.jpg",La Cumbia del Infinito
-https://archive.org/download/de_buenos_aires_para_el_mundo/13%2C%20La%20cumbia%20del%20infinito%20%28ft.%20Pablo%20Lescano%29.mp3
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",Mi Unico Amor 
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/12%20-%20Mi%20%C3%BAnico%20amor%20%28Ft%20Marcela%20Morelo%29.mp3
 
+#EXTINF:-1 group-title="CUMBIA MP3" tvg-logo="https://ia600600.us.archive.org/32/items/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/Los-Angeles-Azules-De-Buenos-Aires-Para-El-Mundo-Frontal.jpg?cnt=0",La Cumbia del Infinito
+https://archive.org/download/los-angeles-azules-de-buenos-aires-para-el-mundo-2020/13%20-%20La%20cumbia%20del%20infinito%20%28Ft%20Damas%20Gratis%29.mp3
 
 
 
